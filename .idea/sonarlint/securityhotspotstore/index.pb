@@ -1,0 +1,19 @@
+
+]
+-catalogo-de-livros/catalogo-de-livros/pom.xml,2\c\2c0c70c6e60be166889d2620b862a51ef076f147
+¡
+qcatalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/model/Livros.java,0\e\0ef65497dd24c23a04e706564a769d3517dbeac5
+ 
+pcatalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/model/Autor.java,7\9\79b51fa344a543a0369c64ea5299834893565fe1
+¯
+catalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/repository/LivroRepository.java,d\7\d701bd0b1760d6d2d1e33320d28d93883d2b7bb9
+¯
+catalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/repository/AutorRepository.java,7\5\757aea24f9549d92f2d48e0ba92d13d6a294f0f9
+©
+ycatalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/service/LivroService.java,8\c\8cef31a870d5dca73e265b0c7a36c3683c61728d
+¯
+catalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/controller/LivroController.java,b\0\b06e11504797fd98650ac99e2f8b5beb4e494f40
+±
+€catalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/CatalogoDeLivrosApplication.java,a\4\a4ef95ab55ce8085690949b8e72617e755aaa84c
+™
+icatalogo-de-livros/catalogo-de-livros/src/main/java/br/com/thiago/literalura/catalogo_de_livros/Main.java,e\3\e317e769d37b3e1f8d50f4286b0a2883aa3dcc7c
